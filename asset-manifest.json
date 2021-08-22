@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-5Days-Weather-Forecast/static/css/main.b1d3c610.chunk.css",
-    "main.js": "/React-5Days-Weather-Forecast/static/js/main.06e44410.chunk.js",
-    "main.js.map": "/React-5Days-Weather-Forecast/static/js/main.06e44410.chunk.js.map",
+    "main.css": "/React-5Days-Weather-Forecast/static/css/main.77b7bb1f.chunk.css",
+    "main.js": "/React-5Days-Weather-Forecast/static/js/main.e86a11db.chunk.js",
+    "main.js.map": "/React-5Days-Weather-Forecast/static/js/main.e86a11db.chunk.js.map",
     "runtime-main.js": "/React-5Days-Weather-Forecast/static/js/runtime-main.7cf47d4a.js",
     "runtime-main.js.map": "/React-5Days-Weather-Forecast/static/js/runtime-main.7cf47d4a.js.map",
     "static/js/2.d893bdcb.chunk.js": "/React-5Days-Weather-Forecast/static/js/2.d893bdcb.chunk.js",
     "static/js/2.d893bdcb.chunk.js.map": "/React-5Days-Weather-Forecast/static/js/2.d893bdcb.chunk.js.map",
     "index.html": "/React-5Days-Weather-Forecast/index.html",
-    "static/css/main.b1d3c610.chunk.css.map": "/React-5Days-Weather-Forecast/static/css/main.b1d3c610.chunk.css.map",
+    "static/css/main.77b7bb1f.chunk.css.map": "/React-5Days-Weather-Forecast/static/css/main.77b7bb1f.chunk.css.map",
     "static/js/2.d893bdcb.chunk.js.LICENSE.txt": "/React-5Days-Weather-Forecast/static/js/2.d893bdcb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7cf47d4a.js",
     "static/js/2.d893bdcb.chunk.js",
-    "static/css/main.b1d3c610.chunk.css",
-    "static/js/main.06e44410.chunk.js"
+    "static/css/main.77b7bb1f.chunk.css",
+    "static/js/main.e86a11db.chunk.js"
   ]
 }
